@@ -1,3 +1,4 @@
+ HEAD
 # 🔐 Password Manager using Python
 
 This is a beginner-friendly Password Manager built in Python. It allows you to:
@@ -16,3 +17,6 @@ This is a beginner-friendly Password Manager built in Python. It allows you to:
 ## 📌 Features
 - CLI-based interactive menu
 - Local storage in JSON format
+# password-manager
+A simple CLI password manager built using Python
+cb9cf9282c35badcf1c3feb04371ac2a75988ce2
